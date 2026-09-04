@@ -29,5 +29,7 @@
 
 # Рейсы
 
-[Schedule/Eastbound.md](На восток (Москва — Владивосток))
-[Schedule/Westbound.md](На запад (Владивосток — Москва)) 
+* [На восток (Москва — Владивосток)](Schedule/Eastbound.md)
+* [На запад (Владивосток — Москва)](Schedule/Westbound.md)
+
+[Что посмотреть?](LayoverSights.md)
